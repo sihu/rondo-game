@@ -10,7 +10,7 @@ const PRECACHE_URLS = [
     '../',
     '../css/style.css',
     '../js/functions.js',
-    '../js/rondo.js'
+    '../js/rondo.json'
 ];
 
 // The install handler takes care of precaching the resources we always need.

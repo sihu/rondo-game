@@ -1,4 +1,11 @@
 body {
-	background: url(bg.jpg);
+	background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg.jpg);
 	background-size: cover;
+	height: 100vh;
+}
+
+.page-header {
+	color: white;
+	margin-bottom: 3em;
+	border: none;
 }
